@@ -5,6 +5,6 @@ Contributions are handled in the form of Pull Requests. You fork this repository
 # Some Important Points To Getting Started
 
 - First clone this repo
-- create brach with your name inside project
+- create a branch with your name inside the project
 - push from your own brach for the changes that you have made
-- have review of your change and add PR
+- have a review of your change and add PR
